@@ -2,7 +2,7 @@ import os
 import tkinter as tk
 
 root = tk.Tk()
-
+root.title("Install Package")
 canvas = tk.Canvas(root, width = 300, height = 350, bg = 'gray11', relief = 'raised')
 canvas.pack()
 
